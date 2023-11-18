@@ -27,3 +27,6 @@ This Employee Insights Power BI dashboard is designed to efficiently track and a
 
 5. Day-wise Breakdown
   - How does the distribution of presence, work-from-home, and sick leave vary across different days of the week?
+
+#### Objective:
+The primary objective of the Employee Insights Dashboard is to empower stakeholders with a comprehensive view of employee engagement and performance. By utilizing this dashboard, users can make data-driven decisions, optimize HR strategies, and enhance overall organizational efficiency.
