@@ -1,4 +1,6 @@
 # Employee-Insights-Dashboard
+![image](https://github.com/ImaneMdn/Employee-Insights-Dashboard/assets/115882702/90427085-7ccb-44a3-ad22-59e9af4e8cc3)
+
 
 ### Overview
 This Employee Insights Power BI dashboard is designed to efficiently track and analyze employee data for the HR team. It covers various aspects such as working hours, attendance, performance, and leaves, providing valuable insights to streamline HR processes and enhance overall efficiency.
