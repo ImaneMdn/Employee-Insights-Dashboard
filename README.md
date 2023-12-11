@@ -1,5 +1,6 @@
 # Employee-Insights-Dashboard
-![image](https://github.com/ImaneMdn/Employee-Insights-Dashboard/assets/115882702/90427085-7ccb-44a3-ad22-59e9af4e8cc3)
+![image](https://github.com/ImaneMdn/Employee-Insights-Dashboard/assets/115882702/83a2b246-73b4-4c21-89f3-2d612b528153)
+
 
 
 ### Overview
